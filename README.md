@@ -26,7 +26,7 @@ Provides .NET Standard library implementation where possible.
 	
 	Concrete implementation of ISerialPort using System.IO.Ports.SerialPort for Windows Desktop systems.
 	
-+ **RealDSerialCommunicationTester**
++ **PKSerialCommunicationTester**
 
 	Provides a GUI test environment to test all functions of the included libraries on Windows Desktop systems.
 	
